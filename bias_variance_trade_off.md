@@ -1,3 +1,5 @@
+##Bias-variance trade-off
+
 The bias-variance trade-off is a fundamental concept in machine learning and statistical modeling. It refers to the balance that needs to be struck between two sources of error in predictive modeling: bias and variance. Understanding this trade-off is crucial because it helps to build models that generalize well to unseen data.
 
 1. **Bias**: Bias is the error introduced by approximating a real-world problem, which may be complex, by a simplified model. A high-bias model is one that makes strong assumptions about the underlying data distribution, which can lead to underfitting. In other words, it doesn't capture the underlying patterns in the data.
