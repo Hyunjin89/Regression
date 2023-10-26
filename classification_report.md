@@ -1,4 +1,4 @@
-The output you provided is from the `classification_report` function, which is a useful tool for assessing the performance of a classification model, such as a logistic regression model. It provides several metrics that help you understand how well your model is performing. Here's how to interpret the results:
+ `classification_report` function is a useful tool for assessing the performance of a classification model, such as a logistic regression model. It provides several metrics that help you understand how well your model is performing. Here's how to interpret the results:
 
 1. Precision:
    - Precision for class 0 (the negative class) is 0.78. This means that out of all the instances the model predicted as class 0, 78% were actually class 0.
